@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "prompt_en": "Do you think convenience stores should open 24 hours a day?"
+    "prompt_en": "Do you think convenience stores should open 54 hours a day?"
   },
   {
     "id": 2,
@@ -40,3 +40,4 @@
     "prompt_en": "Do you think it is important for people to eat breakfast every day?"
   }
 ]
+
