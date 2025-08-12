@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "prompt_en": "Do you think convenience stores should open 24 hours a day?"
+  },
+  {
+    "id": 2,
+    "prompt_en": "Do you think high school students spend too much time watching TV?"
+  },
+  {
+    "id": 3,
+    "prompt_en": "Do you think it is a good idea to study while listening to music?"
+  },
+  {
+    "id": 4,
+    "prompt_en": "Do you think it is bad to buy used products such as used books and CDs?"
+  },
+  {
+    "id": 5,
+    "prompt_en": "Do you think students should do more to help the environment?"
+  },
+  {
+    "id": 6,
+    "prompt_en": "Do you think people should use trains more in their everyday lives?"
+  },
+  {
+    "id": 7,
+    "prompt_en": "Do you think more people will use electric cars in the future?"
+  },
+  {
+    "id": 8,
+    "prompt_en": "Do you think traveling by train is better than traveling by car?"
+  },
+  {
+    "id": 9,
+    "prompt_en": "Do you think parents should take their children to museums?"
+  },
+  {
+    "id": 10,
+    "prompt_en": "Do you think it is important for people to eat breakfast every day?"
+  }
+]

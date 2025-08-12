@@ -1,0 +1,82 @@
+[
+  {
+    "question_id": 1,
+    "answers": {
+      "agree": "I agree. 24-hour convenience stores help people with busy or irregular schedules. They also support emergencies, like buying medicine or food late at night.",
+      "disagree": "I disagree. Staying open all night wastes energy and raises costs. Limiting hours could reduce environmental impact without hurting most customers.",
+      "neutral": "I’m not sure. Twenty-four hours is convenient, but it has costs. Maybe essential services can stay open late while most stores shorten hours."
+    }
+  },
+  {
+    "question_id": 2,
+    "answers": {
+      "agree": "I agree. Too much TV distracts students from studying and reduces exercise. Setting time limits can help keep a healthy balance.",
+      "disagree": "I disagree. TV can be educational and a good way to relax. If students choose quality programs and manage time, it’s not a big problem.",
+      "neutral": "I’m not sure. It depends on content and time management. With the right balance, TV can be both enjoyable and educational."
+    }
+  },
+  {
+    "question_id": 3,
+    "answers": {
+      "agree": "I agree. Calm background music can lower stress and help some people focus, especially during long study sessions.",
+      "disagree": "I disagree. Music with lyrics can distract from reading or memorizing. For many students, silence is better for concentration.",
+      "neutral": "I’m not sure. It depends on the person and the music. Some study better with soft music, while others prefer a quiet place."
+    }
+  },
+  {
+    "question_id": 4,
+    "answers": {
+      "agree": "I agree. Used items may be damaged or outdated. Buying new products ensures better quality and the latest information.",
+      "disagree": "I disagree. Buying used saves money and reduces waste. Reusing books or CDs is environmentally friendly and practical.",
+      "neutral": "I’m not sure. Used goods can be great value, but new items are more reliable. It depends on the condition and purpose."
+    }
+  },
+  {
+    "question_id": 5,
+    "answers": {
+      "agree": "I agree. Students are the future, so building eco-friendly habits, like recycling and saving energy, is very important.",
+      "disagree": "I disagree. Students already have heavy workloads. Schools should support environmental education without adding too many extra tasks.",
+      "neutral": "I’m not sure. Encouraging action is good, but it should be realistic. Small daily steps may be better than big projects."
+    }
+  },
+  {
+    "question_id": 6,
+    "answers": {
+      "agree": "I agree. Trains are eco-friendly and reduce traffic jams. In cities, they are often faster and more reliable than cars.",
+      "disagree": "I disagree. In rural areas, trains may be infrequent, so cars are more practical for daily life.",
+      "neutral": "I’m not sure. It depends on infrastructure. Trains work well in cities, but cars are necessary in many places."
+    }
+  },
+  {
+    "question_id": 7,
+    "answers": {
+      "agree": "I agree. Prices are falling and charging stations are increasing. As technology improves, more people will choose electric cars.",
+      "disagree": "I disagree. High prices, limited range, and charging time still worry many drivers, so adoption may be slow.",
+      "neutral": "I’m not sure. The technology is improving, but practical and economic barriers remain for some people."
+    }
+  },
+  {
+    "question_id": 8,
+    "answers": {
+      "agree": "I agree. Trains are safer and better for the environment. You can also relax or work instead of focusing on driving.",
+      "disagree": "I disagree. Cars offer flexibility, especially when carrying luggage or traveling to places without train service.",
+      "neutral": "I’m not sure. For speed and comfort in cities, trains are great, but for remote areas, cars are more convenient."
+    }
+  },
+  {
+    "question_id": 9,
+    "answers": {
+      "agree": "I agree. Museums spark curiosity and help children learn about history, science, and art in an engaging way.",
+      "disagree": "I disagree. Some children find museums boring. Other activities, like science workshops or zoos, may suit them better.",
+      "neutral": "I’m not sure. It depends on the child’s interests. Museums are valuable, but other experiences can also be educational."
+    }
+  },
+  {
+    "question_id": 10,
+    "answers": {
+      "agree": "I agree. Breakfast gives energy and improves concentration, which is especially helpful for students in the morning.",
+      "disagree": "I disagree. Some people feel fine without breakfast. For them, a light or late first meal might work better.",
+      "neutral": "I’m not sure. For many people breakfast helps, but personal habits and schedules are also important."
+    }
+  }
+]
